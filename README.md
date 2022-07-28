@@ -7,7 +7,7 @@ Copy the sources to your buildroot folder and add the following line to "package
 source "package/wiringpilib/Config.in"
 ```
   
-And them "make menuconfig", the option should show up in "target packages"  
+And then "make menuconfig", the option should show up in "target packages"  
   
 Nino MegaDriver  
 nino@nino.com.br  
