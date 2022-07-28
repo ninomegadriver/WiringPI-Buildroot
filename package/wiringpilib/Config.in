@@ -1,0 +1,4 @@
+config BR2_PACKAGE_WIRINGPILIB
+	bool "WirinPI Lib"
+	help
+	  Wiring Pi devLib
